@@ -7,7 +7,5 @@ script:
     - mkdir -p remark
     - remarkable remark talk/iteration-scales.md remark
     - mv remark.html remark/index.html
-    - ghp-import remark
-    - git push origin gh-pages
 after_success:
   - rm -rf remark

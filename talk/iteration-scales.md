@@ -1,4 +1,4 @@
-# title
+# iteration scales
 ---
 # intro/bio
 ---

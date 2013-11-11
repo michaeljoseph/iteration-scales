@@ -12,7 +12,7 @@ programming environment, as we iterate through the development of a trick-based
 card game called Thunee.
 
 The presentation consists primarily of reading and writing code
-(LARGE and Solarized, I know...), while watching terminal output and receiving
+(# Large and Solarized, I know...), while watching terminal output and receiving
 automated continuous integration reports.
 
 ## Summary
